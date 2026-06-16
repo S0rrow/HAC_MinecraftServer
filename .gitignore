@@ -1,2 +1,6 @@
 # Mod JAR Files
 requirements/
+
+# release files
+releases/
+*.zip
