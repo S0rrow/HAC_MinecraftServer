@@ -14,7 +14,7 @@
 
 ## Mod List
 
-서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 50개의 모드가 현재 설치되어 있음.
+서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 51개의 모드가 현재 설치되어 있음.
 
 설치된 모드들의 목록은 다음과 같음.
 
@@ -69,6 +69,7 @@
 |VeinMiner|2.10.3|광맥 일괄 채굴|https://modrinth.com/mod/veinminer|
 |Torch Toss|5.0.0|횃불 투척|https://www.curseforge.com/minecraft/mc-mods/torch-toss|
 |Better Stats|5.3.0|통계 화면 개선|https://www.curseforge.com/minecraft/mc-mods/betterstats|
+|Hardcore Revival|26.1.2.2|플레이어 부활 추가|https://modrinth.com/mod/hardcore-revival|
 
 ### 농사 및 음식
 
@@ -120,13 +121,13 @@
 |핵심 라이브러리|16|
 |성능 최적화|4|
 |탐험 및 월드 생성|7|
-|이동 및 편의성|5|
+|이동 및 편의성|6|
 |농사 및 음식|5|
 |RPG 및 전투|4|
 |지도 및 HUD|7|
 |정보 조회|1|
 |멀티플레이|1|
-|**총합**|**50**|
+|**총합**|**51**|
 
 ---
 
@@ -220,6 +221,8 @@ Fabric 설정이 끝나면 이제 마인크래프트 런처를 실행하면 됨.
 문제가 없다면 정상적으로 게임이 실행될 것임.
 
 ![mc_mainpage](images/mc_mainpage.png)
+
+문제없이 정상적으로 설치가 되었다면 좌하단의 마인크래프트 본 게임 버전 정보 옆에 *Modded* 라는 글자가 같이 있을 거임.
 
 ---
 
