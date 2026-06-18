@@ -14,7 +14,7 @@
 
 ## Mod List
 
-서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 51개의 모드가 현재 설치되어 있음.
+서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 49개의 모드가 현재 설치되어 있음.
 
 설치된 모드들의 목록은 다음과 같음.
 
@@ -28,7 +28,6 @@
 |TCDCommonsAPI|5.3.2|Better Stats 의존성|https://www.curseforge.com/minecraft/mc-mods/tcdcommons|
 |Framework|0.13.23|Goblin Traders 의존성|https://www.curseforge.com/minecraft/mc-mods/framework|
 |Collective|8.25|Inventory Totem 의존성|https://www.curseforge.com/minecraft/mc-mods/collective|
-|GeckoLib|5.5.1|JEG 의존성|https://www.curseforge.com/minecraft/mc-mods/geckolib|
 |Delight Lib|26.05.18|More Delight 의존성|https://www.curseforge.com/minecraft/mc-mods/delight-lib|
 |Fzzy Config|0.7.6|ReArm 의존성|https://www.curseforge.com/minecraft/mc-mods/fzzy-config|
 |Cloth Config API|26.1.154|Rustic Delight 의존성|https://www.curseforge.com/minecraft/mc-mods/cloth-config|
@@ -88,7 +87,6 @@
 |Artifacts|15.0.0|특수 장신구 추가|https://www.curseforge.com/minecraft/mc-mods/artifacts|
 |ReArm|2.5.0|전투 시스템 확장|https://www.curseforge.com/minecraft/mc-mods/rearm|
 |Goblin Traders|1.12.0|특수 상인 추가|https://www.curseforge.com/minecraft/mc-mods/goblin-traders|
-|Just Enough Guns New|1.7.0-hotfix|총기 추가|https://www.curseforge.com/minecraft/mc-mods/just-enough-guns-for-neoforge|
 
 ### 지도 및 HUD
 
@@ -118,16 +116,16 @@
 
 |분류|개수|
 |---|---:|
-|핵심 라이브러리|16|
+|핵심 라이브러리|15|
 |성능 최적화|4|
 |탐험 및 월드 생성|7|
 |이동 및 편의성|6|
 |농사 및 음식|5|
-|RPG 및 전투|4|
+|RPG 및 전투|3|
 |지도 및 HUD|7|
 |정보 조회|1|
 |멀티플레이|1|
-|**총합**|**51**|
+|**총합**|**49**|
 
 ---
 
