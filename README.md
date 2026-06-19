@@ -14,7 +14,7 @@
 
 ## Mod List
 
-서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 52개의 모드가 현재 설치되어 있음.
+서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 53개의 모드가 현재 설치되어 있음.
 
 설치된 모드들의 목록은 다음과 같음.
 
@@ -38,6 +38,7 @@
 |YetAnotherConfigLib|3.9.4|Xaero's Maps x Waystones, Zoomify 의존성|https://www.curseforge.com/minecraft/mc-mods/yacl|
 |Trinkets|4.0.0.beta2|장신구 슬롯 시스템|https://www.curseforge.com/minecraft/mc-mods/trinkets-updated/download/8187944|
 |Gecko Lib|5.5.1|JEGN 의존성|https://www.curseforge.com/minecraft/mc-mods/geckolib|
+|PneumonoCore|1.3.1|Gravestones 의존성|https://modrinth.com/mod/pneumono_core|
 
 ### 성능 최적화
 
@@ -67,9 +68,10 @@
 |Waystones|26.1.2.5|텔레포트 거점|https://modrinth.com/mod/waystones|
 |Inventory Totem|3.4|인벤토리 보호|https://www.curseforge.com/minecraft/mc-mods/inventory-totem|
 |VeinMiner|2.10.3|광맥 일괄 채굴|https://modrinth.com/mod/veinminer|
-|Torch Toss|5.0.0|횃불 투척|https://www.curseforge.com/minecraft/mc-mods/torch-toss|
 |Better Stats|5.3.0|통계 화면 개선|https://www.curseforge.com/minecraft/mc-mods/betterstats|
 |Hardcore Revival|26.1.2.2|플레이어 부활 추가|https://modrinth.com/mod/hardcore-revival|
+|Gravestones|1.3.0|플레이어 사망시 아이템 회수 가능한 무덤 추가|https://modrinth.com/mod/pneumono_gravestones|
+|Serverside CarryOn|1.0.0|엔티티를 손에 들 수 있게 하는 기능 추가|https://modrinth.com/mod/serverside-carryon|
 
 ### 농사 및 음식
 
@@ -122,13 +124,13 @@
 |핵심 라이브러리|16|
 |성능 최적화|4|
 |탐험 및 월드 생성|7|
-|이동 및 편의성|6|
+|이동 및 편의성|7|
 |농사 및 음식|5|
 |RPG 및 전투|4|
 |지도 및 HUD|7|
 |정보 조회|2|
 |멀티플레이|1|
-|**총합**|**52**|
+|**총합**|**53**|
 
 ---
 
