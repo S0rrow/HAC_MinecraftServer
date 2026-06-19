@@ -10,11 +10,11 @@
 | Loader | Fabric |
 | 메모리 | 5GB |
 | 음성 채팅 | Simple Voice Chat |
-| 서버 형태 | RPG + 탐험 + 생활 + 건축 |
+| 서버 형태 | 탐험 + 생활 + 건축 |
 
 ## Mod List
 
-서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 49개의 모드가 현재 설치되어 있음.
+서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 52개의 모드가 현재 설치되어 있음.
 
 설치된 모드들의 목록은 다음과 같음.
 
@@ -37,6 +37,7 @@
 |Cristel Lib|3.1.7|Towns and Towers 의존성|https://modrinth.com/mod/cristel-lib?version=26.1.2&loader=fabric|
 |YetAnotherConfigLib|3.9.4|Xaero's Maps x Waystones, Zoomify 의존성|https://www.curseforge.com/minecraft/mc-mods/yacl|
 |Trinkets|4.0.0.beta2|장신구 슬롯 시스템|https://www.curseforge.com/minecraft/mc-mods/trinkets-updated/download/8187944|
+|Gecko Lib|5.5.1|JEGN 의존성|https://www.curseforge.com/minecraft/mc-mods/geckolib|
 
 ### 성능 최적화
 
@@ -87,6 +88,7 @@
 |Artifacts|15.0.0|특수 장신구 추가|https://www.curseforge.com/minecraft/mc-mods/artifacts|
 |ReArm|2.5.0|전투 시스템 확장|https://www.curseforge.com/minecraft/mc-mods/rearm|
 |Goblin Traders|1.12.0|특수 상인 추가|https://www.curseforge.com/minecraft/mc-mods/goblin-traders|
+|Just Enough Guns New|1.7.0|총기 추가|https://www.curseforge.com/minecraft/mc-mods/just-enough-guns-for-neoforge|
 
 ### 지도 및 HUD
 
@@ -105,6 +107,7 @@
 |모드|버전|용도|URL|
 |---|---|---|---|
 |Just Enough Items (JEI)|29.6.2.31|아이템 및 레시피 조회|https://www.curseforge.com/minecraft/mc-mods/jei|
+|Mod Menu|18.0.0|모드 조회|https://modrinth.com/mod/modmenu|
 
 ### 멀티플레이
 
@@ -116,16 +119,16 @@
 
 |분류|개수|
 |---|---:|
-|핵심 라이브러리|15|
+|핵심 라이브러리|16|
 |성능 최적화|4|
 |탐험 및 월드 생성|7|
 |이동 및 편의성|6|
 |농사 및 음식|5|
-|RPG 및 전투|3|
+|RPG 및 전투|4|
 |지도 및 HUD|7|
-|정보 조회|1|
+|정보 조회|2|
 |멀티플레이|1|
-|**총합**|**49**|
+|**총합**|**52**|
 
 ---
 
