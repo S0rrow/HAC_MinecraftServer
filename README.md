@@ -14,7 +14,7 @@
 
 ## Mod List
 
-서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 53개의 모드가 현재 설치되어 있음.
+서버의 관리와 모딩의 용이함을 위해 Fabric을 통해 구축하였고, 총 74개의 모드가 현재 설치되어 있음.
 
 설치된 모드들의 목록은 [모드 목록](MOD_META.md)에서 보면 됨.
 
@@ -22,16 +22,16 @@
 
 |분류|개수|
 |---|---:|
-|핵심 라이브러리|16|
-|성능 최적화|4|
-|탐험 및 월드 생성|7|
-|이동 및 편의성|7|
+|핵심 라이브러리|21|
+|성능 최적화|9|
+|탐험 및 월드 생성|9|
+|이동 및 편의성|13|
 |농사 및 음식|5|
-|RPG 및 전투|4|
-|지도 및 HUD|7|
+|RPG 및 전투|6|
+|지도 및 HUD|9|
 |정보 조회|2|
 |멀티플레이|1|
-|**총합**|**53**|
+|**총합**|**75**|
 
 ---
 
@@ -43,15 +43,15 @@
 
 Fabric을 통해 구축한 서버이기 때문에 클라이언트 단에서도 동일한 환경 설정이 필요함.
 
-
 ## Requirements Installation
 
 ### 1. `requirements.zip` 다운로드
 
-우선 모드팩의 역할을 하는 [requirements.zip](https://github.com/S0rrow/HAC_MinecraftServer/releases)을 다운로드 받아야 함.
+최초로 서버에 입장하기 위해서는 우선 모드팩의 역할을 하는 [requirements.zip](https://github.com/S0rrow/HAC_MinecraftServer/releases)을 다운로드 받아야 함.
 
+이미 기존에 서버에 입장했었다면, [mod_updates.zip](https://github.com/S0rrow/HAC_MinecraftServer/releases)만 다운로드 받은 뒤, 기존에 모드들이 설치된 경로에 `mods_updates` 디렉토리 내부의 파일들을 옮겨주면 됨.
 
-해당 zip 파일 내부에는 `fabric installer`와 `mods` 디렉토리가 존재함.
+`requirements.zip` 파일 내부에는 `fabric installer`와 `mods` 디렉토리가 존재함.
 
 ![requirements.zip.png](images/requirements.zip.png)
 
